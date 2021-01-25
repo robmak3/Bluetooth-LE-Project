@@ -1,1 +1,3 @@
-# Schwinn-IC4-Scripts
+# Bluetooth-LE Project
+
+## Please view presenation, logs, and code.
